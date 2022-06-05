@@ -16,7 +16,7 @@ The main page consists of the login and register buttons, and a catalog for the 
 
 ## Login form
 
-If you press the Login button the login form is shown. You need to be registered in order to log in. If you try to enter a non existing email, an alert saying the user is not existent will be shown. If you try to log in into an existing user more than 5 times without entring the right password. You will get a time-out that prevents you from trying again for a certain time.
+If you press the Login button the login form is shown. You need to be registered in order to log in. If you try to enter a non existing email, an alert saying the user is not existent will be shown. If you try to log in into an existing user more than 5 times without entring the right password you will get a time-out that prevents you from trying again for a certain time.
 
 ![image](https://user-images.githubusercontent.com/30511514/172069118-1cbebef5-dda5-40c0-bd57-0e99a94ae760.png)
 
