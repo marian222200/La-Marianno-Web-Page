@@ -40,7 +40,7 @@ Another button that is shown once you are logged in is the *Info logare* button 
 
 ## Server Side
 
-The app does not have a data-base. All the information is lost upon restarting the Node.js server. The server is responsible for returning the list of pizza upon request, login form, register form, pizza rating. The server also is responsible for returning error codes if the request get declined. The server used to sent emails back in 2019 using a gmail account, but google updated their terms and conditions since then and the app does not sent emails anymore :(.
+The app does not have a data-base. All the information is lost upon restarting the Node.js server. The server is responsible for returning the list of pizza upon request, login form, register form, pizza rating. The server also is responsible for returning error codes if the request gets declined. The server used to send emails back in 2019 using a gmail account, but google updated their terms and conditions since then and the app does not send emails anymore :(.
 
 ## Http Requests
 
