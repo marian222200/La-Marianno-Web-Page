@@ -5,7 +5,7 @@ A prototype of La Marianno Web Page for pizza delivery. My first try at front-en
 ## How to run the project
 
 The client side of the project I ran using this [extension](https://github.com/ritwickdey/vscode-live-server-plus-plus "GitHub: Vscode Live Server++ (BETA)"). For the server side I used [Node.js](https://nodejs.org/en/about/ "About Node.js").
-To start the server you need to have Node.js installed and run *node server.js" in comand line in the folder where the project resides.
+To start the server you need to have Node.js installed and run *node server.js* in comand line in the folder where the project resides.
 
 ## Main page
 
