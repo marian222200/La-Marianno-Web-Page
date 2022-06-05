@@ -24,6 +24,8 @@ If you press the Login button the login form is shown. You need to be registered
 
 If you press the Register button, the Register form is shown. In order to register you need to have first name, last name, a valid email, and a valid password. All the validation is made using [Regular Expresions](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE "Regular Expresions Tutorial YouTube Playlist").
 
+![image](https://user-images.githubusercontent.com/30511514/172069961-b1c5ffaa-4c73-435b-8b33-570364026571.png)
+
 ## Adding pizza form
 
 Once you have logged in successfully the page refreshes and you then have the button to open the adding pizza form.
