@@ -1,6 +1,6 @@
 # La Marianno Web Page
 
-A prototype of La Marianno Web Page for pizza delivery. My first try at front-end (back in 2019).
+A prototype of La Marianno Web Page for pizza delivery.
 
 ## How to run the project
 
