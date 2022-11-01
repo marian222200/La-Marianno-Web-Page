@@ -1,6 +1,6 @@
 # La Marianno Web Page
 
-A prototype of La Marianno Web Page for pizza delivery.
+A prototype of La Marianno Web Page used for selling pizza programmed in: Html, CSS, JS, using Node.js to run the server.
 
 ## How to run the project
 
